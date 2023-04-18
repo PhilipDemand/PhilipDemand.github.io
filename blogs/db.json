@@ -1,5 +1,5 @@
-{
-  "blogs": [
+
+  [
     {
       "id": 1,
       "author": "John Smith",
@@ -28,4 +28,3 @@
       "likes": 44
     }
   ]
-}
